@@ -1,15 +1,14 @@
 ```
-┌───────────────────────────────────────────────────────────┐
-│              JOHAN KASRI — CARTE D'IDENTITÉ               │
-├───────────────────────────────────────────────────────────┤
-│ NOM          : Johan Kasri                                │
-│ TITRE        : Développeur PHP / Symfony — Freelance      │
-│ SPÉCIALITÉ   : Architecture logicielle Symfony            │
-│ PROJET PHARE : Encephalon — copilote IA (Symfony 7)       │
-│ DEVISE       : « Comprendre comment les choses tiennent » │
-│ VILLE        : Strasbourg (67)                            │
-│ PORTFOLIO    : johankasri.fr                              │
-└───────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│            JOHAN KASRI — CARTE D'IDENTITÉ             │
+├───────────────────────────────────────────────────────┤
+│ NOM          : Johan Kasri                            │
+│ TITRE        : Développeur PHP / Symfony — Freelance  │
+│ SPÉCIALITÉ   : Architecture logicielle Symfony        │
+│ PROJET PHARE : Encephalon — copilote IA (Symfony 7.2) │
+│ VILLE        : Strasbourg (67)                        │
+│ PORTFOLIO    : johankasri.fr                          │
+└───────────────────────────────────────────────────────┘
 ```
 
 # Développeur PHP / Symfony — Freelance · Strasbourg (67) · Disponible immédiatement
@@ -54,10 +53,10 @@ Trente ans, autodidacte mais certifié : Bac+2 et Bac+3 Concepteur Développeur 
 
 | Projet | Description | Stack | Statut |
 |---|---|---|---|
-| **Encephalon** | Copilote IA conçu et développé seul, de l'architecture au déploiement : 68 entités Doctrine, 446 tests automatisés. | Symfony 7 · Doctrine · API Platform | `SOLO` `PROD` |
-| **Est Pare-Brise** | Prise de rendez-vous en ligne et gestion du tiers payant assurance ; −70 % de temps de traitement administratif. | Symfony · MySQL · Docker | `CLIENT` `PROD` |
-| **Nexus Académie** | Plateforme e-learning pour la gestion de 200 candidats et de leurs dossiers de financement OPCO/CPF. | Symfony · Doctrine · Twig | `CLIENT` `PROD` |
-| **GCA Mobilité** | Vulgarisation d'expertises étanchéité via des scènes 3D interactives. | Vue 3 · Three.js · Tailwind | `CLIENT` `PROD` |
+| **[Encephalon](https://encephalon.fr)** | Copilote IA personnel conçu et développé seul, auto-hébergé : 68 entités Doctrine, 35+ outils LLM, 446 tests automatisés. Modules nutrition, sport, finance, sommeil, suivi de candidatures et configurateur de CV. | Symfony 7.2 · PHP 8.3 · PostgreSQL · Hetzner/Coolify | `SOLO` `PROD` |
+| **Est Pare-Brise** | Prise de rendez-vous en ligne et gestion du tiers payant assurance : −70 % de temps de traitement, 50 interventions par mois. | Symfony 6 · MySQL · Docker | `CLIENT` `PROD` |
+| **Nexus Académie** | Plateforme e-learning Qualiopi pour la gestion de 200 candidats et de leurs dossiers de financement OPCO/CPF. | Symfony 6 · EasyAdmin · API REST | `CLIENT` `PROD` |
+| **GCA Mobilité** | Site vitrine autour du dispositif MaPrimeAdapt', avec visualisation 3D interactive des interventions. | Symfony 7 · Twig · Three.js | `CLIENT` `PROD` |
 
 ---
 
@@ -88,3 +87,4 @@ Trente ans, autodidacte mais certifié : Bac+2 et Bac+3 Concepteur Développeur 
 ## Contact
 
 - Portfolio : [johankasri.fr](https://johankasri.fr)
+- LinkedIn : [linkedin.com/in/johankasri](https://linkedin.com/in/johankasri)
