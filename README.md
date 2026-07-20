@@ -54,7 +54,7 @@ Trente ans, autodidacte mais certifié : Bac+2 et Bac+3 Concepteur Développeur 
 
 | Projet | Description | Stack | Statut |
 |---|---|---|---|
-| **[Encephalon](https://encephalon.fr)** | Copilote IA conçu et développé seul, de l'architecture au déploiement : 68 entités Doctrine, 446 tests automatisés. | Symfony 7 · Doctrine · API Platform | `SOLO` `PROD` |
+| **Encephalon** | Copilote IA conçu et développé seul, de l'architecture au déploiement : 68 entités Doctrine, 446 tests automatisés. | Symfony 7 · Doctrine · API Platform | `SOLO` `PROD` |
 | **Est Pare-Brise** | Prise de rendez-vous en ligne et gestion du tiers payant assurance ; −70 % de temps de traitement administratif. | Symfony · MySQL · Docker | `CLIENT` `PROD` |
 | **Nexus Académie** | Plateforme e-learning pour la gestion de 200 candidats et de leurs dossiers de financement OPCO/CPF. | Symfony · Doctrine · Twig | `CLIENT` `PROD` |
 | **GCA Mobilité** | Vulgarisation d'expertises étanchéité via des scènes 3D interactives. | Vue 3 · Three.js · Tailwind | `CLIENT` `PROD` |
