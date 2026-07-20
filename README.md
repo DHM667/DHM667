@@ -1,115 +1,91 @@
-<div align="center">
-
-```diff
-+ private readonly string $credo = "On ne code pas des lignes — on bâtit des structures qui tiennent.";
+```
+┌───────────────────────────────────────────────────────────┐
+│              JOHAN KASRI — CARTE D'IDENTITÉ                │
+├───────────────────────────────────────────────────────────┤
+│ NOM          : Johan Kasri                                 │
+│ TITRE        : Développeur PHP / Symfony — Freelance       │
+│ SPÉCIALITÉ   : Architecture logicielle Symfony             │
+│ PROJET PHARE : Encephalon — copilote IA (Symfony 7)        │
+│ DEVISE       : « Comprendre comment les choses tiennent »  │
+│ VILLE        : Strasbourg (67)                             │
+│ PORTFOLIO    : johankasri.fr                                │
+└───────────────────────────────────────────────────────────┘
 ```
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  NOM         : JOHAN KASRI                                   ║
-║  ORDRE       : Développeur PHP / Symfony — Freelance         ║
-║  SPÉCIALITÉ  : Architecture d'applications métier            ║
-║  CHEF-D'ŒUVRE: Encephalon — copilote IA (446 tests)          ║
-║  DEVISE      : de l'analyse du besoin à la prod              ║
-║  ATELIER     : Strasbourg (67) — dispo immédiate             ║
-║  PLANCHE     : https://johankasri.fr                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Développeur PHP / Symfony — Freelance · Strasbourg (67) · Disponible immédiatement
 
-</div>
+Trente ans, autodidacte mais certifié : Bac+2 et Bac+3 Concepteur Développeur d'Applications obtenus en candidat libre. Venu du commerce, la reconversion est née d'une obsession simple, comprendre comment les choses tiennent, du code à la charpente. Aujourd'hui freelance à Strasbourg, je conçois des applications Symfony pensées pour durer plutôt que pour l'effet.
 
 ---
 
-## ⚒️  OUTILS DE L'ŒUVRE
+## Stack technique
 
-### Back-end
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony_6/7-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine_ORM-FC6A31?style=for-the-badge&logo=php&logoColor=white)
-![API Platform](https://img.shields.io/badge/API_Platform-38A5E0?style=for-the-badge&logo=apiplatform&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-4E7C0E?style=for-the-badge&logo=twig&logoColor=white)
+**Back-end**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
+![API Platform](https://img.shields.io/badge/API%20Platform-1E1E1E?style=for-the-badge)
+![Twig](https://img.shields.io/badge/Twig-B8860B?style=for-the-badge)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-### Front-end
+**Front-end**
+
+![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Bases & Infra
+**Bases & Infra**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624)
-![n8n](https://img.shields.io/badge/n8n-131313?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📐  MAÎTRISE
+## Projets phares
 
-```
-BACK-END / SYMFONY     ████████████████████░░   90%
-API REST / DOCTRINE    ██████████████████░░░░   82%
-ARCHITECTURE MÉTIER    █████████████████████░   95%
-FRONT (VUE / TAILWIND) ███████████████░░░░░░░   70%
-INFRA / DEVOPS         ████████████████░░░░░░   75%
-```
-
----
-
-## 🏛️  CHANTIER EN COURS
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  LE GRAND ŒUVRE — édifice en construction                    ║
-║                                                              ║
-║  [x] Fondations   — PHP / Symfony / Doctrine maîtrisés       ║
-║  [x] Structure    — API REST & backoffices sur mesure        ║
-║  [x] Ornements    — Vue 3, Tailwind, Three.js                ║
-║  [x] Machinerie   — Docker, n8n, CI/CD, auto-hébergement     ║
-║  [ ] Clé de voûte — un CDI Symfony, pour bâtir dans la durée ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| Projet | Description | Stack | Statut |
+|---|---|---|---|
+| **[Encephalon](https://encephalon.fr)** | Copilote IA conçu et développé seul, de l'architecture au déploiement : 68 entités Doctrine, 446 tests automatisés. | Symfony 7 · Doctrine · API Platform | `SOLO` `PROD` |
+| **Est Pare-Brise** | Prise de rendez-vous en ligne et gestion du tiers payant assurance ; −70 % de temps de traitement administratif. | Symfony · MySQL · Docker | `CLIENT` `PROD` |
+| **Nexus Académie** | Plateforme e-learning pour la gestion de 200 candidats et de leurs dossiers de financement OPCO/CPF. | Symfony · Doctrine · Twig | `CLIENT` `PROD` |
+| **GCA Mobilité** | Vulgarisation d'expertises étanchéité via des scènes 3D interactives. | Vue 3 · Three.js · Tailwind | `CLIENT` `PROD` |
 
 ---
 
-## 🗝️  ŒUVRES ACCOMPLIES
+## Chantier en cours
 
-| Œuvre | Description | Grade |
-|---|---|---|
-| **Encephalon** | Copilote IA développé en solo — Symfony 7, 68 entités, 446 tests | `CHEF-D'ŒUVRE` |
-| **Est Pare-Brise** | Prise de RDV & tiers-payant assurance — −70 % de traitement | `MAÎTRE` |
-| **Nexus Académie** | 200 candidats orchestrés (dossiers OPCO / CPF) | `COMPAGNON` |
-| **GCA Mobilité** | Expertise étanchéité vulgarisée en 3D (Three.js) | `APPRENTI` |
-
----
-
-## 📊  RELEVÉ DE L'ATELIER
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DHM667&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=E2B040&icon_color=E2B040&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHM667&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=E2B040&text_color=c9d1d9" />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=DHM667&hide_border=true&background=0d1117&stroke=E2B040&ring=E2B040&fire=E2B040&currStreakLabel=E2B040&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
+- [x] **Fondations** — Bac+2 et Bac+3 CDA obtenus en candidat libre
+- [x] **Structure** — Encephalon en production (68 entités, 446 tests)
+- [x] **Second œuvre** — refonte Est Pare-Brise, −70 % de temps de traitement
+- [ ] **Finitions** — contributions open source régulières et veille technique
+- [ ] **Livraison** — décrocher un CDI Symfony à Strasbourg ou en remote
 
 ---
 
-<div align="center">
+## Statistiques
 
-<img width="100%" src="https://raw.githubusercontent.com/DHM667/DHM667/output/github-contribution-grid-snake-dark.svg" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DHM667&label=Visiteurs&color=0e75b6&style=flat-square" alt="Compteur de visites" />
+</p>
 
-![Visiteurs](https://komarev.com/ghpvc/?username=DHM667&color=E2B040&style=for-the-badge&label=VISITEURS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHM667/DHM667/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHM667/DHM667/output/github-snake.svg" />
+  <img alt="Graphe de contributions animé" src="https://raw.githubusercontent.com/DHM667/DHM667/output/github-snake.svg" />
+</picture>
 
 ---
 
-*« Ce qui est en haut est comme ce qui est en bas »*
-*— appliqué au staging comme à la prod.*
+## Contact
 
-</div>
+- Portfolio : [johankasri.fr](https://johankasri.fr)
+- LinkedIn : [linkedin.com/in/johankasri](https://linkedin.com/in/johankasri)
