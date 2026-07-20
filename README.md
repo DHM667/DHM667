@@ -1,14 +1,14 @@
 ```
 ┌───────────────────────────────────────────────────────────┐
-│              JOHAN KASRI — CARTE D'IDENTITÉ                │
+│              JOHAN KASRI — CARTE D'IDENTITÉ               │
 ├───────────────────────────────────────────────────────────┤
-│ NOM          : Johan Kasri                                 │
-│ TITRE        : Développeur PHP / Symfony — Freelance       │
-│ SPÉCIALITÉ   : Architecture logicielle Symfony             │
-│ PROJET PHARE : Encephalon — copilote IA (Symfony 7)        │
-│ DEVISE       : « Comprendre comment les choses tiennent »  │
-│ VILLE        : Strasbourg (67)                             │
-│ PORTFOLIO    : johankasri.fr                                │
+│ NOM          : Johan Kasri                                │
+│ TITRE        : Développeur PHP / Symfony — Freelance      │
+│ SPÉCIALITÉ   : Architecture logicielle Symfony            │
+│ PROJET PHARE : Encephalon — copilote IA (Symfony 7)       │
+│ DEVISE       : « Comprendre comment les choses tiennent » │
+│ VILLE        : Strasbourg (67)                            │
+│ PORTFOLIO    : johankasri.fr                              │
 └───────────────────────────────────────────────────────────┘
 ```
 
@@ -88,4 +88,3 @@ Trente ans, autodidacte mais certifié : Bac+2 et Bac+3 Concepteur Développeur 
 ## Contact
 
 - Portfolio : [johankasri.fr](https://johankasri.fr)
-- LinkedIn : [linkedin.com/in/johankasri](https://linkedin.com/in/johankasri)
