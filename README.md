@@ -87,4 +87,4 @@ Trente ans, autodidacte mais certifié : Bac+2 et Bac+3 Concepteur Développeur 
 ## Contact
 
 - Portfolio : [johankasri.fr](https://johankasri.fr)
-- LinkedIn : [linkedin.com/in/johankasri](https://linkedin.com/in/johankasri)
+
